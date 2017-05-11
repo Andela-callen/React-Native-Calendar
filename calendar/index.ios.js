@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-import Calendar from './src/pages/Calendar'
+import Calendar from './src/pages/Calendar';
 
 export default class calendar extends Component {
   render() {
